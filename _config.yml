@@ -63,3 +63,14 @@ collections:
   posts:
     output: true
     permalink: /teaching/:year/:month/:day/:title/
+exclude:
+  - node_modules/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - tmp/
+  - docs/
+  - test/
+  - .github/
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
