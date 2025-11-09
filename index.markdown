@@ -83,15 +83,15 @@ title: "Keith Chern - Data Science Lecturer"
     </p>
   </div>
 
-<div class="main-content">
-  <div class="section">
-    <h2>🎓 Education</h2>
-    <ul>
-      <li><strong>MSc in Strategic Marketing</strong>, Curtin University</li>
-      <li><strong>BEng in Computer Engineering</strong>, Nanyang Polytechnic</li>
-    </ul>
-  </div>
-</div>
+  <div class="main-content">
+
+    <div class="section">
+      <h2>🎓 Education</h2>
+      <ul>
+        <li><strong>MSc in Strategic Marketing</strong>, Curtin University</li>
+        <li><strong>BEng in Computer Engineering</strong>, Nanyang Polytechnic</li>
+      </ul>
+    </div>
 
     <div class="section">
       <h2>💼 Experience</h2>
@@ -131,5 +131,6 @@ title: "Keith Chern - Data Science Lecturer"
     </div>
 
     <p style="text-align:center; margin-top:40px; font-size:0.85rem; color:#777;">© 2025 Keith Chern — Built with Jekyll & GitHub Pages</p>
-  </div>
-</div>
+
+  </div> <!-- main-content -->
+</div> <!-- resume-container -->
