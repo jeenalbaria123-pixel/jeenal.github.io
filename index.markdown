@@ -72,7 +72,7 @@ title: "Educator, Career Coach and School of IT Facilitator"
 
   <div class="sidebar">
     <img src="profile.jpeg" alt="Keith Chern">
-    <h1>Keith Chern</h1>
+    <h1>jeenal</h1>
     <p><strong>Data Science Lecturer</strong></p>
     <p>AI · Cloud · IoT · Data Analytics</p>
     <p>📍 Singapore</p>
